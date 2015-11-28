@@ -57,6 +57,7 @@ alias gcs='git show'
 alias gcl='git-commit-lost'
 
 # Conflict (C)
+alias gst='git status'
 alias gCl='git status | sed -n "s/^.*both [a-z]*ed: *//p"'
 alias gCa='git add $(gCl)'
 alias gCe='git mergetool $(gCl)'
