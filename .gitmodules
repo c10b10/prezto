@@ -19,3 +19,6 @@
 [submodule "modules/prompt/external/charlie"]
 	path = modules/prompt/external/charlie
 	url = https://github.com/c10b10/charlie.git
+[submodule "modules/autosuggestions/external"]
+	path = modules/autosuggestions/external
+	url = https://github.com/tarruda/zsh-autosuggestions
